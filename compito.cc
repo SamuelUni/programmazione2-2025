@@ -2,6 +2,7 @@
 
 int main() {
     printf("Hello, World! I am Samuel\n");
+    // nuova modifica esterna ⚠️
 
     // + nuova modifica LOCALE in contemporanea
 
