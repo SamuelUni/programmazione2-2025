@@ -6,6 +6,8 @@ int main() {
 
     // + nuova modifica LOCALE in contemporanea
 
+    printf("asdgsghashar");
+
     return 0;
 }
 
