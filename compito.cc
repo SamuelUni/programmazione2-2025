@@ -7,6 +7,7 @@ int main() {
     // + nuova modifica LOCALE in contemporanea
 
     printf("asdgsghashar");
+    // nuovo commento
 
     return 0;
 }
